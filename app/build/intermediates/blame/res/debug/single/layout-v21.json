@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Shelby\\AndroidStudioProjects\\calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Shelby\\.android\\build-cache\\cc7ef0d61e6ead529d60ba00ffb59b520aa4b96b\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shelby\\AndroidStudioProjects\\calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Shelby\\.android\\build-cache\\cc7ef0d61e6ead529d60ba00ffb59b520aa4b96b\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shelby\\AndroidStudioProjects\\calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Shelby\\.android\\build-cache\\cc7ef0d61e6ead529d60ba00ffb59b520aa4b96b\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shelby\\AndroidStudioProjects\\calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Shelby\\.android\\build-cache\\cc7ef0d61e6ead529d60ba00ffb59b520aa4b96b\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
